@@ -1,0 +1,9 @@
+name: Test
+main: net.arcev.test.Main
+author: Arcev
+version: 0.1-SNAPSHOT
+commands:
+  echo:
+    description: This command is for development purposes...
+  teleport:
+    description: This command is for development purposes...
